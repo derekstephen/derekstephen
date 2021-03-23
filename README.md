@@ -1,5 +1,4 @@
-### 👋 Hiya!
-###  I'm Derek!
+### 👋 Hiya! I'm Derek!
 ##### 😄 Pronouns: He/Him
 
 ##### 🔭 I’m currently working on finishing up my degree in Informaion Sciences and Technology with a dual minor in Security and Risk Analysis and Entrepreneurship and Innovation.
