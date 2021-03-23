@@ -2,6 +2,7 @@
 ##### 😄 Pronouns: He/Him
 
 ##### 🔭 I’m currently working on finishing up my degree in Informaion Sciences and Technology with a dual minor in Security and Risk Analysis and Entrepreneurship and Innovation.
+##### ⚡ In my free time, I like to work on personal projects, listen to music, and play video  games.
 
 
 
