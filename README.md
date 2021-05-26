@@ -1,8 +1,8 @@
 ### 👋 Hiya! I'm Derek!
 ##### 😄 Pronouns: He/Him
 
-##### 🔭 I’m recently graduated from Pennsylvania State University with a Bachelor's of Science in Informaion Sciences and Technology with minors in Security & Risk Analysis and Entrepreneurship & Innovation.
-##### ⚡ In my free time, I like to work on personal projects, listen to music, and play video  games.
+##### 🔭 I’ve recently graduated from Pennsylvania State University with a Bachelor's of Science in Information Sciences and Technology with minors in Security & Risk Analysis and Entrepreneurship & Innovation.
+##### ⚡ In my free time, I like to work on personal projects, listen to music, and play video games.
 
 [![DerekStephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekstephen&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
