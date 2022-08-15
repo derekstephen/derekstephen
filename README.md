@@ -11,7 +11,7 @@
 ##### 📫 How to reach me: [https://derekstephen.dev](https://derekstephen.dev)
 
 
-[![DerekStephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekstephen&count_private=true&show_icons=true&theme=vue-dark&custom_title =Derekstephen%27s%20Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![DerekStephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=derekstephen&count_private=true&show_icons=true&theme=vue-dark&custom_title%20=Derekstephen%27s%20Github%20Stats&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![DerekStephen's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derekstephen&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 -->
